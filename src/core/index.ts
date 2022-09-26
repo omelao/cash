@@ -10,3 +10,4 @@
 // @require ./cash.ts
 // @require ./type_checking.ts
 // @require ./variables.ts
+// @require ./when.ts
